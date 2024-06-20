@@ -80502,7 +80502,7 @@
               r &&
                 (0, H.jsx)("div", {
                   className: "poweredby",
-                  children: "Powered by $LAPTOP",
+                  children: "Launchbook pro",
                 }),
               p &&
                 n &&
@@ -86512,13 +86512,7 @@
                 (0, H.jsxs)("div", {
                   className: "welcome-page-extra-info",
                   children: [
-                    (0, H.jsx)("div", {
-                      className: "welcome-page-email",
-                      children: (0, H.jsx)("p", {
-                        className: "welcome-page-email-text",
-                        children: "marketing@corruptlaptop.com",
-                      }),
-                    }),
+                    
                     (0, H.jsxs)("div", {
                       className: "welcome-page-ca",
                       children: [
