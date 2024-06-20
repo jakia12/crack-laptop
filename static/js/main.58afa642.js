@@ -86271,7 +86271,7 @@
           }),
           (0, H.jsx)("p", {
             className: "crack-book-pro",
-            children: "CrackBook Pro",
+            children: "Launchbook pro",
           }),
           (0, H.jsxs)("div", {
             className: "bar-container",
