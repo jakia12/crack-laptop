@@ -3857,8 +3857,7 @@ body:not(.lg-from-hash)
   z-index: 2;
 }
 .welcome-page-profile .profile-pic {
-  background: url(https://bidenlaptopmedia.com/_data/i/galleries/Laptop/20171130_183241_IMG_0017-xl.jpg)
-    50% / cover no-repeat;
+  background: url(/static/media/pr.jpg) 50% / cover no-repeat;
   border: 5px solid #fff;
   border-radius: 50%;
   height: 100px;
