@@ -86267,7 +86267,7 @@
           (0, H.jsx)("img", {
             alt: "Logo",
             className: "logo",
-            src: __webpack_require__(5373),
+            src: "/logo.png",
           }),
           (0, H.jsx)("p", {
             className: "crack-book-pro",
