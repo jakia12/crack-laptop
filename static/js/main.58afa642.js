@@ -80502,7 +80502,7 @@
               r &&
                 (0, H.jsx)("div", {
                   className: "poweredby",
-                  children: "Launchbook pro",
+                  children: "LaunchBook Pro",
                 }),
               p &&
                 n &&
@@ -80641,14 +80641,7 @@
                   })),
             (null === (n = c.whatsapp) || void 0 === n ? void 0 : n.open) &&
               (0, H.jsx)(u_, {}),
-            !O_() &&
-              (0, H.jsx)(KC, {
-                pairs:
-                  "6uybx1x8yucfj8ystpyizbyg7uqzaq2s46zwphumkjg5, 5o9kgvozarynwfbytzd1wdrkpkkdr6ldpqbuuqm57nfj, 5pummeya8hokqmqetulqxxl57vdwt3vhpck5w29szcnw, hfdjkietbhndohf2jyyeeqwfyscbsmtmlbpzmy4syzwv",
-                title: "2024 Solana Simulated Election",
-                showSponsor: !0,
-              }),
-            (0, H.jsx)(za, { allApps: c, allFiles: a }),
+            !O_() && (0, H.jsx)(za, { allApps: c, allFiles: a }),
           ],
         });
       },
@@ -86271,7 +86264,7 @@
           }),
           (0, H.jsx)("p", {
             className: "crack-book-pro",
-            children: "Launchbook pro",
+            children: "LaunchBook Pro",
           }),
           (0, H.jsxs)("div", {
             className: "bar-container",
@@ -86512,7 +86505,6 @@
                 (0, H.jsxs)("div", {
                   className: "welcome-page-extra-info",
                   children: [
-                    
                     (0, H.jsxs)("div", {
                       className: "welcome-page-ca",
                       children: [

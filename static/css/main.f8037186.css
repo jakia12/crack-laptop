@@ -12,6 +12,12 @@ html {
   position: fixed;
   width: 100%;
 }
+#welcome-page-col {
+  opacity: 0 !important;
+}
+#crypto-leaderboard {
+  opacity: 0 !important;
+}
 body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -92,7 +98,7 @@ code {
 .page {
   -ms-overflow-style: none;
   align-items: center;
-  background-image: url(/static/media/apple_bg_vector.672383797f47a5fd68af.svg);
+  background-image: url(/static/media/bg.jpg);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
